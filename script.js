@@ -1460,7 +1460,7 @@ class CivicConnect {
         },
         {
           id: 3,
-          title: "SSC CGL",
+          title: "Super heros",
           department: "defense",
           organization: "Staff Selection Commission",
           location: "world wide",
@@ -1490,7 +1490,7 @@ class CivicConnect {
         },
         {
           id: 5,
-          title: "UPSC Civil Services",
+          title: "Villians",
           department: "administration",
           organization: "Union Public Service Commission",
           location: "different states",
@@ -1520,7 +1520,7 @@ class CivicConnect {
         },
             {
           id: 7,
-          title: "programme",
+          title: "Web Developer",
           department: "government jobs",
           organization: "web development, web3 space",
           location: "different states",
